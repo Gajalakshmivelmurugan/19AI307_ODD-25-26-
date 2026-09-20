@@ -21,8 +21,8 @@ To implement inheritance by creating a superclass Vehicle and a subclass Car, an
  ```
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by: Dharunyadevi S
-RegisterNumber: 212223220018
+Developed by: Gajalakshmi V
+RegisterNumber: 212223040047
 */
 ```
 
