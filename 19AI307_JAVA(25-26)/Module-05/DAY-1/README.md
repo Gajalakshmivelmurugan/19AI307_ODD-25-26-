@@ -18,8 +18,8 @@ To operationalize a Java workflow that captures user input at runtime and pipeli
  ```
 /*
 Program to implement a InputStreamReader using Java
-Developed by: Dharunyadevi S
-RegisterNumber: 212223220018
+Developed by: Gajalakshmiv
+RegisterNumber: 212223040047
 */
 ```
 
