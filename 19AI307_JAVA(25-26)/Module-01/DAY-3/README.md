@@ -20,9 +20,9 @@ To write a Java program to print a hollow square pattern using asterisks (*).
 
 ### Program to Implement Variables and Operators Using Java
 
-**Developed by:** Dharunyadevi S
+**Developed by:** Gajalakshmi V
 
-**Register Number:** 212223220018
+**Register Number:** 212223040047
 
 ### SOURCE CODE:
 ```java
