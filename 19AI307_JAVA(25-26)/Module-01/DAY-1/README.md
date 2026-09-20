@@ -43,9 +43,9 @@ To write a Java program that reads four integer inputs from the user, performs a
 
 ### Program to Implement Variables and Operators Using Java
 
-**Developed by:** Dharunyadevi S
+**Developed by:** Gajalakshmi V
 
-**Register Number:** 212223220018
+**Register Number:** 212223040047
 
 
 ### Sourcecode.java:
