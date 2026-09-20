@@ -22,8 +22,8 @@ To demonstrate accessing a static variable in Java using both the class name and
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: Dharunyadevi S
-RegisterNumber: 212223220018
+Developed by: Gajalakshmi V
+RegisterNumber: 212223040047
 */
 ```
 
