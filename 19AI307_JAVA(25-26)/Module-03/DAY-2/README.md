@@ -20,7 +20,7 @@ To implement method overloading in Java by creating an AreaCalculator class that
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: Dharunyadevi S
+Developed by: Gajalakshmi V
 RegisterNumber: 212223220018
 */
 ```
