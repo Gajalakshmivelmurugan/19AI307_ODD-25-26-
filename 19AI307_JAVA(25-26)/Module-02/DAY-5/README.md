@@ -19,8 +19,8 @@ To develop a Java class Calculator containing a non-static method for addition a
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: Dharunyadevi S
-RegisterNumber: 212223220018
+Developed by: Gajalakshmi V
+RegisterNumber: 212223040047
 */
 ```
 
