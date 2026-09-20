@@ -20,8 +20,8 @@ To create a Java class ArrayOps with an instance method calculateSum() that retu
  ```
 /*
 Program to implement a Methods using Java
-Developed by: Dharunyadevi S
-RegisterNumber: 212223220018
+Developed by: Gajalakshmi V
+RegisterNumber: 212223040047
 */
 ```
 
