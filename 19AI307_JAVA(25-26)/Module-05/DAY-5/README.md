@@ -21,8 +21,8 @@ To implement delayed task execution using Java’s ScheduledExecutorService, all
  ```
 /*
 Program to implement a Synchronization concept using Java
-Developed by: Dharunyadevi S
-RegisterNumber: 212223220018
+Developed by: GajalakshmiV
+RegisterNumber: 212223040047
 */
 ```
 
