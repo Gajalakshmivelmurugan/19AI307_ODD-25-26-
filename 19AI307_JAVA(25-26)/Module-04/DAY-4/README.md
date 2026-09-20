@@ -22,8 +22,8 @@ To implement the Abstract Factory design pattern in Java by creating theme-speci
  ```
 /*
 Program to implement a Abstract Factory Pattern using Java
-Developed by: Dharunyadevi S
-RegisterNumber: 212223220018
+Developed by: Gajalakshmi V
+RegisterNumber: 212223040047
 */
 ```
 
