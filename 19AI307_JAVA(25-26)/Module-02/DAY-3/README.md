@@ -19,8 +19,8 @@ To implement a Java class Smartphone using private variables, a constructor for 
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: Dharunyadevi S
-RegisterNumber: 212223220018
+Developed by: Gajalakshmi V
+RegisterNumber: 212223040047
 */
 ```
 
