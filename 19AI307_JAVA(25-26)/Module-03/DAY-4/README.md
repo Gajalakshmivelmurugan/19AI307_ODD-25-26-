@@ -21,8 +21,8 @@ To implement an interface in Java by creating a common Bot interface for weather
  ```
 /*
 Program to implement a Interface using Java
-Developed by: Dharunyadevi S
-RegisterNumber: 212223220018
+Developed by: Gajalakshmi V
+RegisterNumber: 212223040047
 */
 ```
 
