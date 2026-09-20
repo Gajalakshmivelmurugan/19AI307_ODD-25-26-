@@ -20,8 +20,8 @@ To operationalize SOLID design principles in a Java-based smart city AQI monitor
  ```
 /*
 Program to implement a SOLID Principles in Java Program
-Developed by: Dharunyadevi S
-RegisterNumber: 212223220018
+Developed by: Gajalakshmi V
+RegisterNumber: 212223040047
 */
 ```
 
