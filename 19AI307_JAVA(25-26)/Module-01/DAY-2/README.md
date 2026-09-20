@@ -36,9 +36,9 @@ To write a Java program that determines whether using stairs or an elevator is f
 ## PROGRAM:
 ### Program to Implement Variables and Operators Using Java
 
-**Developed by:** Dharunyadevi S
+**Developed by:** Gajalakshmi V
 
-**Register Number:** 212223220018
+**Register Number:** 212223040047
 
 ### SOURCE CODE:
 ```java
